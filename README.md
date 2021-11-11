@@ -1,6 +1,6 @@
 ### Hi there, I'm Mudassir Mirza - aka [Mirza][website] 👋
 
-[![Website](https://img.shields.io/website?label=mudassirmirza.me&style=for-the-badge&url=http%3A%2F%2Fmudassirmirza.ml)](http://mudassirmirza.ml)
+[![Website](https://img.shields.io/website?label=mudassirmirza.ml&style=for-the-badge&url=http%3A%2F%2Fmudassirmirza.ml)](http://mudassirmirza.ml)
 
 ## I'm a Software Engineer, Researcher and a Cook 🤣!!
 
