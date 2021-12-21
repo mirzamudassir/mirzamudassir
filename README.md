@@ -78,7 +78,7 @@
 [website]: http://mudassirmirza.me
 [twitter]: https://twitter.com/mudasirmirza007
 [facebook]: https://facebook.com/mirzamudassir007/
-[instagram]: https://instagram.com/mudassirmirza007
+[instagram]: https://instagram.com/_mudassirmirza_
 [linkedin]: https://www.linkedin.com/in/mudassirmirza/
 [skype]: mirzamudassir52
 
