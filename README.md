@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to cook
 
 ### Connect with me:
@@ -76,7 +76,7 @@
 </details>
 
 [website]: http://mudassirmirza.me
-[twitter]: https://twitter.com/_mudassirmirza_
+[twitter]: https://twitter.com/MudassirrMirza
 [facebook]: https://facebook.com/mirzamudassir007/
 [instagram]: https://instagram.com/_mudassirmirza_
 [linkedin]: https://www.linkedin.com/in/mudassirmirza/
