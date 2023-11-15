@@ -1,6 +1,6 @@
 ### Hi there, I'm Mudassir Mirza - aka [Mirza][website] 👋
 
-[![Website](https://img.shields.io/website?label=mudassirmirza.me&style=for-the-badge&url=http%3A%2F%2Fmudassirmirza.me)](http://mudassirmirza.me)
+[![Website](https://img.shields.io/website?label=mudasir.net&style=for-the-badge&url=http%3A%2F%2Fmudasir.net)](http://mudasir.net)
 
 ## I'm a Software Engineer, Researcher and a Cook 🤣!!
 
@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="mudassirmirza.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="mudasir.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Mudassir Mirza | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Mudassir Mirza | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Mudassir Mirza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -75,7 +75,7 @@
 
 </details>
 
-[website]: http://mudassirmirza.me
+[website]: http://mudasir.net
 [twitter]: https://twitter.com/MudassirrMirza
 [facebook]: https://facebook.com/mirzamudassir007/
 [instagram]: https://instagram.com/_mudassirmirza_
