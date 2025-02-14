@@ -1,6 +1,6 @@
 ### Hi there, I'm Mudassir Mirza - aka [Mirza][website] 👋
 
-[![Website](https://img.shields.io/website?label=mudasir.net&style=for-the-badge&url=http%3A%2F%2Fmudasir.net)](http://mudasir.net)
+[![Website](https://img.shields.io/website?label=mudasir.is-a.dev&style=for-the-badge&url=https%3A%2F%2Fmudasir.is-a.dev)](https://mudasir.is-a.dev)
 
 ## I'm a Software Engineer, Researcher and a Cook 🤣!!
 
@@ -75,9 +75,9 @@
 
 </details>
 
-Last Updated: Dec 25, 2024
+Last Updated: Feb 13, 2025
 
-[website]: http://mudasir.net
+[website]: https://mudasir.is-a.dev
 [twitter]: https://twitter.com/MudassirrMirza
 [facebook]: https://facebook.com/mirzamudassir007/
 [instagram]: https://instagram.com/_mudassirmirza_
